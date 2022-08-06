@@ -1,4 +1,4 @@
-<h1>Hey, I'm Josh! <br/><a href="https://github.com/JoshuaBallard">Cybersecurity Professional</a>, and <a href="https://www.linkedin.com/in/jbballard2/">IT Professional</a>
+<h1>Hey, I'm Joshua! <br/><a href="https://github.com/JoshuaBallard">Cybersecurity Professional</a>, and <a href="https://www.linkedin.com/in/jbballard2/">IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
