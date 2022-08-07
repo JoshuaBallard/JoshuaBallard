@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Sample Project 1</b>
-  - [Just a sample repository to copy.](https://github.com/JoshuaBallard/Sample1)
+- <b>Learning Python</b>
+  - [Just a sample repository to copy.](https://github.com/JoshuaBallard/learning_python)
 
 <h2> 🤳 Connect with me:</h2>
 
