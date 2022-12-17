@@ -1,13 +1,10 @@
-<h1>Hey, I'm Joshua! <br/><a href="https://github.com/JoshuaBallard">Cybersecurity Professional</a> | <a href="https://www.linkedin.com/in/jbballard2/">IT Professional</a> | <a href="http://flexiblefatherhood.com">Foster Dad Podcaster</a>
+<h1>Hey, I'm Joshua! <br/><a href="https://www.linkedin.com/in/jbballard2/">IT Professional</a> | <a href="http://flexiblefatherhood.com">Foster Dad Podcaster</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Learning Python</b>
-  - [Basic Python Coding](https://github.com/JoshuaBallard/learning_python)
-  
- - <b>Learning Ansible</b>
+- <b>Learning Ansible</b>
   - [Basic Ansible](https://github.com/JoshuaBallard/learning_python)
-
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshuaBallard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
