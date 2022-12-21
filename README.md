@@ -11,4 +11,4 @@
 [<img align="left" alt="JoshuaBallard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/mister_ballard
-[linkedin]: https://linkedin.com/in/jbballard
+[linkedin]: https://linkedin.com/in/jbballard2
