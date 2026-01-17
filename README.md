@@ -1,4 +1,4 @@
-<h1>Hey, I'm Joshua! <br/><a href="https://www.linkedin.com/in/jbballard2/">IT Professional</a> | <a href="https://youtube.com/@joshballard.ai">AI & Automation Expert</a>
+<h1>Hey, I'm Josh! <br/><a href="https://youtube.com/@joshballard.ai">AI & Automation Expert</a>
 
 <h2>👨‍💻 Projects:</h2>
 
