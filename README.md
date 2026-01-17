@@ -5,7 +5,7 @@
 - <b>Quiet Wells App</b>
   - [Link to Landing Page](https://quietwells.com/welcome)
 - <b>Dad Mode App</b>
-  - [Link to Landing Page](https://dadmode.com/landing)
+  - [Link to Landing Page](https://dadmode.thedaduprising.com/landing)
   
 <h2> 🤳 Connect with me:</h2>
 
